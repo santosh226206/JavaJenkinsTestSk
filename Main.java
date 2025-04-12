@@ -8,5 +8,6 @@ public class Main {
         System.out.println("you can create scalable backend");
         System.out.println("with spring boot it is become very easy to build microservice");
         System.out.println("jdk 17");
+        System.out.println("getter setter");
     }
 }
